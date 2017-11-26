@@ -1,1 +1,1 @@
-require "bundler_spec.rb"
+require "bundler/setup"
